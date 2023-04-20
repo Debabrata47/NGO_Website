@@ -5,7 +5,7 @@
 
 Website for NGO Hunger No More (HNM). Made with NextJS and TailwindCSS. We reduce the wastage of food by using it for a good cause and provide a healthy meal to kids so that they can sleep with no hunger.
 
-**Website: [teamhnm.org](https://teamhnm.org)**
+
 
 >Note: I have nothing to do with this NGO and I don't endorse it.
 
